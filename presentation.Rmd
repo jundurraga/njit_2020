@@ -645,21 +645,6 @@ All data was processed with **"pyeeg-python"** (Python 3.7)
 
 - Objective and behavioural measures of binaural processing may be more sentitive than monaural measures to unveil hidden hearing loss.
 
-## 
-<center>
-Low frequency cues are particularly sensitive to time.
-</center>
-
-<center>
-![](./my_figures/Bernstein_and_Trahiotis_2016.png){width="40%"}
-</center>
-
-<center>
-<font size="3">Bernstein and Trahiotis (2016)</font>
-</center>
-
-
-
 
 ## Acknowledgments
 
