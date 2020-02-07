@@ -217,8 +217,8 @@ ITDs in the envelope of the signal are also used to determine the location of a 
 
 ## Spatial Release from Masking  
 
-<img class="fragment" data-fragment-index="0" src="./my_figures/bmld_cartoon_srm_front.png" width="45%" data-audio-src="./audio/convolved/convolved_arctic_a0002_d_type_speech_target_0_d1_0_d2_0_snr_0.wav" data-audio-advance=-1 data-audio-advance=-1 >
-<img class="fragment" data-fragment-index="1" src="./my_figures/bmld_cartoon_srm.png" width="45%" data-audio-src="./audio/convolved/convolved_arctic_a0002_d_type_speech_target_0_d1_-80_d2_80_snr_0.wav" data-audio-advance=-1 data-audio-advance=-1>
+<img class="fragment" data-fragment-index="0" src="./my_figures/bmld_cartoon_srm_front.png" width="40%" data-audio-src="./audio/convolved/convolved_arctic_a0002_d_type_speech_target_0_d1_0_d2_0_snr_0.wav" data-audio-advance=-1 data-audio-advance=-1 >
+<img class="fragment" data-fragment-index="1" src="./my_figures/bmld_cartoon_srm.png" width="40%" data-audio-src="./audio/convolved/convolved_arctic_a0002_d_type_speech_target_0_d1_-80_d2_80_snr_0.wav" data-audio-advance=-1 data-audio-advance=-1>
 
 <li class="fragment" data-fragment-index="2"> 
 Binaural release from masking may improve detection thresholds up to 12 dB for multiple speech interferers <font size="3">(Jones and Litovsky, 2011)</font> and facilitates source segregation <font size="3">(Drennan, Gatehouse, and Lever, 2003)</font>.
@@ -367,7 +367,7 @@ MSO are innervated by direct excitatory ipsi- anc contra-lateral inputs from sph
 ## Auditory evoked potentials
 
 <center>
-![](./my_figures/auditory_path_transient_reponse.png){width="60%"}
+![](./my_figures/auditory_path_transient_reponse.png){width="50%"}
 </center>
 
 ## Transient and sustained response
